@@ -6,7 +6,7 @@ Projeto de Pokédex desenvolvido com Vue.js 3, consumindo a PokeAPI.
 - Vue 3
 - Pinia
 - Axios
-- [Tailwind/Bulma/Vuetify] (coloque o que está usando)
+- [Vuetify]
 
 ## Como executar
 ```bash
