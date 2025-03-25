@@ -1,1 +1,0 @@
-Pokedex com vue
