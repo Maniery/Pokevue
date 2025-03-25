@@ -1,0 +1,1 @@
+uma pokedex com vue
