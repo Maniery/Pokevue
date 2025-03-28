@@ -28,4 +28,6 @@ Uma Pokédex interativa desenvolvida com Vue.js 3 que permite explorar informaç
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Maniery/Pokevue.git
-cd Pokevue
+cd Pokevue "para entrar na pasta da aplicação"
+npm install "Instala as dependências"
+npm run dev "para rodar o servidor da aplicação"
