@@ -1,6 +1,6 @@
 ﻿# Pokevue - Pokédex em Vue.js
 
-![Preview da Aplicação](public/screenshots/preview.png) <!-- Adicione uma imagem de preview -->
+![Preview da Aplicação](public/screenshots/preview.png)
 
 ## 🚀 Visão Geral
 Uma Pokédex interativa desenvolvida com Vue.js 3 que permite explorar informações detalhadas sobre Pokémons, incluindo estatísticas, habilidades e tipos.
