@@ -14,11 +14,11 @@ Uma Pokédex interativa desenvolvida com Vue.js 3 que permite explorar informaç
 
 ## 🛠️ Tecnologias Utilizadas
 - **Frontend**:
--Vue 3 (Composition API)
--Fetch (Gerenciamento de estado)
--Vue Router (Navegação)
--Axios (Requisições HTTP)
--Bootstrap 5 (Estilização)
+    -Vue 3 (Composition API)
+    -Fetch (Gerenciamento de estado)
+    -Vue Router (Navegação)
+    -Axios (Requisições HTTP)
+    -Bootstrap 5 (Estilização)
 - **Ferramentas**:
   - Vite (Build tool)
   - ESLint + Prettier (Padronização de código)
