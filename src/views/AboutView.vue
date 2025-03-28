@@ -8,7 +8,7 @@
         <hr>
         <h3>Tutorial</h3>
         <p>
-          Link do GitHub: <a href="https://github.com/Maniery/Pokevue" target="_blank" alt="Link do projeto no GitHub" >/Vue-pokedex</a>
+          Link do GitHub: <a href="https://github.com/Maniery/Pokevue" target="_blank" alt="Link do projeto no GitHub" >Pokevue</a>
         </p>
       </div>
     </div>

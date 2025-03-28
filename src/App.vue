@@ -19,10 +19,10 @@ let num = ref(0)
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <router-link class="nav-link" aria-current="page" to="/">Home</router-link>
+            <router-link class="nav-link" aria-current="page" to="/">Pokedex</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/about">About</router-link>
+            <router-link class="nav-link" to="/about">Descrição</router-link>
           </li>
         </ul>
       </div>
