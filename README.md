@@ -7,17 +7,25 @@ Uma Pokédex interativa desenvolvida com Vue.js 3 que permite explorar informaç
 
 ## ✨ Funcionalidades
 -Listagem completa de Pokémons (1ª geração)
+
 -Visualização detalhada de cada Pokémon
+
 -Busca por nome
+
 -Design responsivo para todos os dispositivos
+
 -PWA (Progressive Web App)
 
 ## 🛠️ Tecnologias Utilizadas
 - **Frontend**:
     -Vue 3 (Composition API)
+    
     -Fetch (Gerenciamento de estado)
+    
     -Vue Router (Navegação)
+    
     -Axios (Requisições HTTP)
+    
     -Bootstrap 5 (Estilização)
 - **Ferramentas**:
   - Vite (Build tool)
